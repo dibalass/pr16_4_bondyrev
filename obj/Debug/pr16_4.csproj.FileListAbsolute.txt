@@ -1,0 +1,7 @@
+C:\Users\305-12\Desktop\Бондырев\pr16_4\obj\Debug\pr16_4.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Бондырев\pr16_4\obj\Debug\pr16_4.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Бондырев\pr16_4\bin\Debug\pr16_4.exe.config
+C:\Users\305-12\Desktop\Бондырев\pr16_4\bin\Debug\pr16_4.exe
+C:\Users\305-12\Desktop\Бондырев\pr16_4\bin\Debug\pr16_4.pdb
+C:\Users\305-12\Desktop\Бондырев\pr16_4\obj\Debug\pr16_4.exe
+C:\Users\305-12\Desktop\Бондырев\pr16_4\obj\Debug\pr16_4.pdb
